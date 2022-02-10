@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dicegame-scrimba/static/css/main.a6bac579.css",
+    "main.js": "/dicegame-scrimba/static/js/main.97bc1c85.js",
+    "index.html": "/dicegame-scrimba/index.html",
+    "main.a6bac579.css.map": "/dicegame-scrimba/static/css/main.a6bac579.css.map",
+    "main.97bc1c85.js.map": "/dicegame-scrimba/static/js/main.97bc1c85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6bac579.css",
+    "static/js/main.97bc1c85.js"
+  ]
+}
